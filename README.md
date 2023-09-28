@@ -13,19 +13,20 @@ This course is the final course in the IBM Data Engineering Professional Certifi
 ### [1. Data Platform Architecture and OLTP Database](https://github.com/Makmurry/IBM-Data-Engineering-Professional-Certificate/tree/26aec9d9a011888fcf365edaa5dcec72ca1fab84/Week1%20-%20OLTP%20Database)
 In this module, you will design a data platform that uses MySQL as an OLTP database. You will be using MySQL to store the OLTP data.
 
-### [2. Querying Data in NoSQL Database]()
+### [2. Querying Data in NoSQL Database](https://github.com/Makmurry/IBM-Data-Engineering-Professional-Certificate/tree/26aec9d9a011888fcf365edaa5dcec72ca1fab84/Week2%20-%20Querying%20Data%20in%20NoSQL%20Databases)
 In this module, you will design a data platform that uses MongoDB as a NoSQL database. You will use MongoDB to store the e-commerce catalog data.
 
-### [3. Build Data Warehouse]()
+### [3. Build Data Warehouse](https://github.com/Makmurry/IBM-Data-Engineering-Professional-Certificate/tree/26aec9d9a011888fcf365edaa5dcec72ca1fab84/Week3%20-%20Build%20Data%20Warehouse
+)
 In this module you will design and implement a data warehouse and you will then generate reports from the data in the data warehouse.
 
-### [4. Data Analytics]()
+### [4. Data Analytics](https://github.com/Makmurry/IBM-Data-Engineering-Professional-Certificate/tree/26aec9d9a011888fcf365edaa5dcec72ca1fab84/Week4%20-%20Dashboard%20Using%20Cognos%20Anaytics)
 In this module, you will assume the role of a data engineer at an e-commerce company. Your company has finished setting up a data warehouse. Now you are assigned the responsibility to design a reporting dashboard that reflects the key metrics of the business
 
-### [5. ETL & Data Pipelines]()
+### [5. ETL & Data Pipelines](https://github.com/Makmurry/IBM-Data-Engineering-Capstone-Project/tree/69e27bbd939392f69d90414b51a44d8fb618ab7d/Week5%20-%20ETL%20%26%20Data%20Pipeline)
 In this module, you will use the given python script to perform various ETL operations that move data from RDBMS to NoSQL, NoSQL to RDBMS, and from RDBMS, NoSQL to the data warehouse. You will write a pipeline that analyzes the web server log file, extracts the required lines and fields, transforms and loads data.
 
-### [6. Big Data Analytics With Spark]()
+### [6. Big Data Analytics With Spark](https://github.com/Makmurry/IBM-Data-Engineering-Capstone-Project/tree/69e27bbd939392f69d90414b51a44d8fb618ab7d/Week6%20-%20Big%20Data%20Analytics%20With%20Spark)
 In this module, you will use the data from a webserver to analyse search terms. You will then load a pretrained sales forecasting model and predict the sales forecast for a future year.
 
 ### Copyright (c) 2022 IBM Corporation. All rights reserved.
