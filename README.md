@@ -16,8 +16,7 @@ In this module, you will design a data platform that uses MySQL as an OLTP datab
 ### [2. Querying Data in NoSQL Database](https://github.com/Makmurry/IBM-Data-Engineering-Professional-Certificate/tree/26aec9d9a011888fcf365edaa5dcec72ca1fab84/Week2%20-%20Querying%20Data%20in%20NoSQL%20Databases)
 In this module, you will design a data platform that uses MongoDB as a NoSQL database. You will use MongoDB to store the e-commerce catalog data.
 
-### [3. Build Data Warehouse](https://github.com/Makmurry/IBM-Data-Engineering-Professional-Certificate/tree/26aec9d9a011888fcf365edaa5dcec72ca1fab84/Week3%20-%20Build%20Data%20Warehouse
-)
+### [3. Build Data Warehouse](https://github.com/Makmurry/IBM-Data-Engineering-Professional-Certificate/tree/26aec9d9a011888fcf365edaa5dcec72ca1fab84/Week3%20-%20Build%20Data%20Warehouse)
 In this module you will design and implement a data warehouse and you will then generate reports from the data in the data warehouse.
 
 ### [4. Data Analytics](https://github.com/Makmurry/IBM-Data-Engineering-Professional-Certificate/tree/26aec9d9a011888fcf365edaa5dcec72ca1fab84/Week4%20-%20Dashboard%20Using%20Cognos%20Anaytics)
