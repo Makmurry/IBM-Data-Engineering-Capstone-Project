@@ -111,4 +111,4 @@ def predict(year):
 predict(2023)
 ```
 
-## For the complete process, [click here](url)
+## For the complete process, [click here]([url](https://github.com/Makmurry/IBM-Data-Engineering-Professional-Certificate/blob/main/Week6%20-%20Big%20Data%20Analytics%20With%20Spark/Spark_MLOps.ipynb)https://github.com/Makmurry/IBM-Data-Engineering-Professional-Certificate/blob/main/Week6%20-%20Big%20Data%20Analytics%20With%20Spark/Spark_MLOps.ipynb)
