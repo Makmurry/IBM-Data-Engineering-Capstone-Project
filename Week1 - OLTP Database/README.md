@@ -47,6 +47,7 @@ Create a database named `sales`.
 Design a table named `sales_data` based on the sample data given. 
 ![sampledata](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0321EN-SkillsNetwork/oltp/sampledata.png "sampledata")
 
+
 Create the `sales_data` table in the `sales` database.
 Take a screenshot of the SQL statement you used and the output. Name the screenshot as `createtable.jpg`.
 
