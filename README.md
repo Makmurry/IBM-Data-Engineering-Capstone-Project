@@ -1,6 +1,4 @@
-<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0321EN-SkillsNetwork/labs/module%201/images/IDSNlogo.png
-" alt="Skill Network" width="200px">
-
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0321EN-SkillsNetwork/images/IDSN-logo.png" alt="Skill Network" width="400px">
 
 Showcase your skills in this Data Engineering project! In this course you will apply a variety of data engineering skills and techniques you have learned as part of the previous courses in the IBM Data Engineering Professional Certificate.  
 
