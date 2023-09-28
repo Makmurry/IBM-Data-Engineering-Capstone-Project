@@ -10,7 +10,7 @@ You will generate reports from the data in the data warehouse and build a dashbo
 
 This course is the final course in the IBM Data Engineering Professional Certificate. It is recommended that you complete all the previous courses in this Professional Certificate before starting this course.
 
-### [1. Data Platform Architecture and OLTP Database]()
+### [1. Data Platform Architecture and OLTP Database](https://github.com/Makmurry/IBM-Data-Engineering-Professional-Certificate/tree/26aec9d9a011888fcf365edaa5dcec72ca1fab84/Week1%20-%20OLTP%20Database)
 In this module, you will design a data platform that uses MySQL as an OLTP database. You will be using MySQL to store the OLTP data.
 
 ### [2. Querying Data in NoSQL Database]()
