@@ -1,3 +1,6 @@
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0321EN-SkillsNetwork/images/IDSN-logo.png" alt="Skill Network" width="400px">
+
+
 # Querying data in NoSQL databases
 
 
